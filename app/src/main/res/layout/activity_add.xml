@@ -69,11 +69,10 @@
         android:layout_centerHorizontal="true"
         android:layout_gravity="bottom|end"
         android:layout_marginHorizontal="40dp"
-        android:backgroundTint="@android:color/white"
+        android:backgroundTint="@android:color/darker_gray"
         android:text="Hapus"
         tools:layout_editor_absoluteX="40dp"
-        tools:layout_editor_absoluteY="377dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="377dp"/>
 
 
 </RelativeLayout>
