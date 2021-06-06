@@ -10,6 +10,7 @@ import android.view.MenuItem;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 /*
+    Tanggal         : 06/06/2021
     NIM             : 10118340
     Nama            : Muhammad Umar Al Fajar
     Kelas           : IF8

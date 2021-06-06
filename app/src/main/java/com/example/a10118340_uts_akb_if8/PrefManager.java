@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 /*
+    Tanggal         : 06/06/2021
     NIM             : 10118340
     Nama            : Muhammad Umar Al Fajar
     Kelas           : IF8

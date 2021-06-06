@@ -6,4 +6,7 @@
     <string name="about">Aplikasi ini dibuat sebagai tugas pengganti UTS
         pada Mata Kuliah Aplikasi Komputasi Bergerak dengan dosen Alif Finandhita, S.Kom., M.T.
     </string>
+    <string name="notes">Di sini tempat untuk menambahkan list catatan harian
+        berdasarkan tanggal pada kalender
+    </string>
 </resources>
