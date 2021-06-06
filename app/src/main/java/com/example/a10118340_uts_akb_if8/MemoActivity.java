@@ -18,6 +18,13 @@ import com.javahelps.memo.db.DatabaseAccess;
 
 import java.util.List;
 
+/*
+    NIM             : 10118340
+    Nama            : Muhammad Umar Al Fajar
+    Kelas           : IF8
+    Matakuliah      : Aplikasi Komputasi Bergerak
+*/
+
 public class MemoActivity extends AppCompatActivity {
     private ListView listView;
     private Button btnAdd;

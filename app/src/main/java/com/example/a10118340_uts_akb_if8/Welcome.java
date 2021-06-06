@@ -19,6 +19,13 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
+/*
+    NIM             : 10118340
+    Nama            : Muhammad Umar Al Fajar
+    Kelas           : IF8
+    Matakuliah      : Aplikasi Komputasi Bergerak
+*/
+
 public class Welcome extends AppCompatActivity {
     private ViewPager viewPager;
     private MyViewPagerAdapter myViewPagerAdapter;

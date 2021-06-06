@@ -6,6 +6,13 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+/*
+    NIM             : 10118340
+    Nama            : Muhammad Umar Al Fajar
+    Kelas           : IF8
+    Matakuliah      : Aplikasi Komputasi Bergerak
+*/
+
 public class SplashActivity extends AppCompatActivity {
 
     private int waktu_loading=2500;

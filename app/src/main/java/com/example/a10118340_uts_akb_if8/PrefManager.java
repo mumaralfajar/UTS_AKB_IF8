@@ -3,6 +3,13 @@ package com.example.a10118340_uts_akb_if8;
 import android.content.Context;
 import android.content.SharedPreferences;
 
+/*
+    NIM             : 10118340
+    Nama            : Muhammad Umar Al Fajar
+    Kelas           : IF8
+    Matakuliah      : Aplikasi Komputasi Bergerak
+*/
+
 public class PrefManager {
     SharedPreferences pref;
     SharedPreferences.Editor editor;

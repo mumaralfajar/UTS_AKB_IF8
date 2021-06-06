@@ -9,6 +9,13 @@ import android.view.MenuItem;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
+/*
+    NIM             : 10118340
+    Nama            : Muhammad Umar Al Fajar
+    Kelas           : IF8
+    Matakuliah      : Aplikasi Komputasi Bergerak
+*/
+
 public class MainActivity extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener {
 
     private BottomNavigationView navViewHome;

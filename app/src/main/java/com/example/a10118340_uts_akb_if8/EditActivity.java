@@ -8,6 +8,13 @@ import android.widget.EditText;
 
 import com.javahelps.memo.db.DatabaseAccess;
 
+/*
+    NIM             : 10118340
+    Nama            : Muhammad Umar Al Fajar
+    Kelas           : IF8
+    Matakuliah      : Aplikasi Komputasi Bergerak
+*/
+
 public class EditActivity extends AppCompatActivity {
     private EditText etText;
     private Button btnSave;
