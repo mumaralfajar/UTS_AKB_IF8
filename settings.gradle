@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "10118340_UTS_AKB_IF8"

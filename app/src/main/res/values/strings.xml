@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">10118340_UTS_AKB_IF8</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="about">Aplikasi ini dibuat sebagai tugas pengganti UTS
+        pada Mata Kuliah Aplikasi Komputasi Bergerak dengan dosen Alif Finandhita, S.Kom., M.T.
+    </string>
+</resources>
